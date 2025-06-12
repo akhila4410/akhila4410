@@ -5,7 +5,7 @@
 
 <h1 align="center">Akhileswari Pemmanaboina</h1>
 <p align="center">
-  🧠 Data Engineer · 🧩 Full Stack Developer · 🤖 AI Explorer · 💻 Software Engineer  
+  🧠 Data Engineer · 🧩 Full Stack Developer · 🤖 AI/ML Explorer · 💻 Software Engineer  
 </p>
 
 <p align="center">
@@ -97,14 +97,16 @@ Apache Spark, Hadoop, Apache Iceberg, ETL Pipelines, Data Lake, Data Lakehouse, 
 
 | Platform | Certification |
 |----------|----------------|
-| 🟠 AWS | Certification received from: **Machine Learning Specialty** |
-| 🟢 MongoDB | Certification received from: **Building RAG Apps using MongoDB Atlas Vector Search** |
-| 🧠 Hackerrank | Certification received from: **SQL, Python, Problem Solving** |
-| 📘 Coursera | Certification received from: **Python Data Structures, Algorithm Toolbox** |
-| 🧪 Udemy | Certification received from: **ML with Python, Deep Learning, AWS Introduction** |
-| 🤖 AI/ML | Certification received from: **Generative AI in Practice, Intro to LLMs** |
+| 🟠 AWS |  **Machine Learning ** |
+| 🟢 MongoDB |  **Building RAG Apps using MongoDB (Atlas Vector Search)** |
+| 🧠 Hackerrank |  **SQL, Python, Problem Solving** |
+| 📘 Coursera |  **Python, Python Data Structures, Algorithm Toolbox** |
+| 🧪 Udemy |  **ML with Python, Deep Learning, AWS Introduction** |
+| SoloLearn |  **Generative AI in Practice, Intro to LLMs** |
 
 ---
+
+
 
 ## 📈 GitHub Insights
 
