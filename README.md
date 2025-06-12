@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:apemmanaboina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/akhila"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akhileswari-pemmanaboina-16a7921b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/akhila4410"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
@@ -97,7 +97,7 @@ Apache Spark, Hadoop, Apache Iceberg, ETL Pipelines, Data Lake, Data Lakehouse, 
 
 | Platform | Certification |
 |----------|----------------|
-| 🟠 AWS |  **Machine Learning ** |
+| 🟠 AWS |  **Machine Learning** |
 | 🟢 MongoDB |  **Building RAG Apps using MongoDB (Atlas Vector Search)** |
 | 🧠 Hackerrank |  **SQL, Python, Problem Solving** |
 | 📘 Coursera |  **Python, Python Data Structures, Algorithm Toolbox** |
@@ -123,7 +123,7 @@ Apache Spark, Hadoop, Apache Iceberg, ETL Pipelines, Data Lake, Data Lakehouse, 
 ## ☎️ Let's Chat
 
 💌 **Email**: apemmanaboina@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/akhila](https://linkedin.com/in/akhila)  
+🔗 **LinkedIn**: [linkedin.com/in/akhila](https://www.linkedin.com/in/akhileswari-pemmanaboina-16a7921b4/)  
 💼 Always open to roles in **Software Engineering**, **Data Engineering**, **AI/ML**, or **Backend Development**
 
 ---
